@@ -1,11 +1,11 @@
 
 function sayMyName(){
-    console.log("H");
-    console.log("I");
-    console.log("T");
-    console.log("E");
-    console.log("S");
-    console.log("H");
+    console.log("s");
+    console.log("a");
+    console.log("n");
+    console.log("j");
+    console.log("a");
+    console.log("y");
 }
 
 // sayMyName()       //sayMyname is refrence for execution sayMYName() of function output h i t e s h
