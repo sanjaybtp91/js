@@ -26,7 +26,7 @@ const obj4 = {5: "a", 6: "b"}
 // const obj3 = { obj1, obj2 }  // join ki jagah object ke ander object ho jayga
 // const obj3 = Object.assign({}, obj1, obj2, obj4)   // ek nye object me assingn karna
 
-const obj3 = {...obj1, ...obj2}                     // obj 3mein 1 and 2 ko spread karna
+const obj3 = {...obj1, ...obj2}                     // spread method obj 3mein 1 and 2 ko spread karna
 // console.log(obj3);
 
 
@@ -50,7 +50,7 @@ users[1].email
 
 // console.log(Object.keys(tinderUser));        // tinderuser ki sari keys dedo
 // console.log(Object.values(tinderUser));      // tinder user ki values dedo
-// console.log(Object.entries(tinderUser));     //key values ke pair mein
+// console.log(Object.entries(tinderUser));     //key values ke pair mein array 
 
 // console.log(tinderUser.hasOwnProperty('isLoggedIn')); // puchhna kya tinder user par isloggedin proprty hai
 
